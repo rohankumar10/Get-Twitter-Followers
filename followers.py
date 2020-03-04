@@ -8,7 +8,7 @@ consumer_secret = 'XXXXXXXX'
 access_token = 'XXXXXXXX'
 access_secret ='XXXXXXXX'
 
-twitter_handle = 'christinezhang' # Any Username
+twitter_handle = 'MesutOzil1088' # Any Username
 
 auth = tweepy.auth.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
